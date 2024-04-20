@@ -16,9 +16,9 @@ Interests
 Technical Skills
 
 - Proficient in Python programming
-- Experienced in data visualization techniques
-- Skilled in developing graphical user interfaces (GUI)
-- Proficient in MySQL database management
+- Familier with data visualization techniques
+- Graphical user interfaces (GUI)
+- MySQL database management
 - Familiar with mapping tools like QGIS
 
 Contact 
