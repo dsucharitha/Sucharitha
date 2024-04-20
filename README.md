@@ -33,10 +33,10 @@ Hobbies
 - Cooking
 - Reading fiction novels
 
-- My projects
-  Public Health Disease Surveillance Architecture Development
-  QGIS and Hospital GIS Mapping
-  Health informatics tools in diabetic management
+My projects
+  -Public Health Disease Surveillance Architecture Development
+  -QGIS and Hospital GIS Mapping
+  -Health informatics tools in diabetic management
 
 Let's collaborate and make a difference in healthcare!
 
